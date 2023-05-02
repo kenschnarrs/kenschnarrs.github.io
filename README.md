@@ -1,1 +1,1 @@
-Available [Here](https://kenschnarrs.github.io)
+Available [here](https://kenschnarrs.github.io)
